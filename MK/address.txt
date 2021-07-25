@@ -1,0 +1,25 @@
+Address	
+Police Chowki Circle,
+behind Vetable mini market,
+Shivamogga 577204
+
+
+p{
+  font-size: 16px;
+}
+footer{
+  margin-left: 20px;
+  position:relative;
+  display: inline-block;
+  left:10px;
+}
+
+
+
+Second Hand Laptop, Computer Accessories, Mobile Accessories, C.C. TV, Net Work Solutions
+
+Computer, Laptop, Printer, Mobile Service, C.C. TV Installatio
+
+Mobile & DTH Currency, XEROX, DTP, Colour Print,
+
+Projects Report, Diploma Engineering Projects.
